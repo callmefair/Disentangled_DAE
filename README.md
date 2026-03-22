@@ -2,7 +2,7 @@
 
 ## Orthogonal Regularization 기반의 Disentangled 추천 시스템
 
-본 프로젝트는 Latent Vector의 각 차원이 독립적인 의미를 갖도록 설계하여 추천 시스템의 해석력을 높이고, 
+본 프로젝트는 Latent Vector의 각 차원이 독립적인 의미를 갖도록 설계하여 추천 시스템의 해석력을 높이고, \
 이를 기반으로 Deep Clustering을 구현하여 성능을 분석한 연구이다.
 
 ## 제안 기법
